@@ -32,7 +32,7 @@ A complete Flutter application for discovering and managing movies using The Mov
 1. **Clone & Setup**
    ```bash
    git clone <https://github.com/x221bx/mymovie-flutter>
-   cd mymovie
+   cd mymovie-flutter
    flutter pub get
    ```
 
