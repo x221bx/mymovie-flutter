@@ -31,7 +31,7 @@ A complete Flutter application for discovering and managing movies using The Mov
 
 1. **Clone & Setup**
    ```bash
-   git clone <[your-repo-url](https://github.com/x221bx/mymovie-flutter)>
+   git clone <https://github.com/x221bx/mymovie-flutter>
    cd mymovie
    flutter pub get
    ```
